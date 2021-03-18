@@ -1,0 +1,2 @@
+frequenze diverse da fare
+possibili frequenze piu` basse del'Hz, nel nodo timestamp e` possibile usare floating-point	  
