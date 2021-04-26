@@ -1,0 +1,162 @@
+[
+    {
+        "id": "1-ITL",
+        "max": 0.4,
+        "min": -0.4,
+        "per": 123456,
+        "type": "longitudinal rotation", 
+        "sample": 600
+    },
+    {
+        "id": "2-ITL",
+        "max": 0.4,
+        "min": -0.4,
+        "per": 1234567,
+        "type": "longitudinal rotation",
+        "sample": 600
+    },
+    {
+        "id": "3-ITL",
+        "max": 0.2,
+        "min": -0.3,
+        "per": 1234567,
+        "type": "longitudinal rotation",
+        "sample": 600
+    },
+    {
+        "id": "4-ITL",
+        "max": 0.3,
+        "min": -0.2,
+        "per": 12345678,
+        "type": "longitudinal rotation",
+        "sample": 600
+    },
+    {
+        "id": "5-ITL",
+        "max": 0.1,
+        "min": -0.1,
+        "per": 123450,
+        "type": "longitudinal rotation",
+        "sample": 600
+    },
+    {
+        "id": "6-ITL",
+        "max": 0.1,
+        "min": -0.1,
+        "per": 12345,
+        "type": "longitudinal rotation",
+        "sample": 600
+    },
+    {
+        "id": "7-ITL",
+        "max": 0.4,
+        "min": -0.1,
+        "per": 123423,
+        "type": "longitudinal rotation",
+        "sample": 600
+    },
+    {
+        "id": "8-ITL",
+        "max": 0.05,
+        "min": -0.02,
+        "per": 1234,
+        "type": "longitudinal rotation",
+        "sample": 600
+    },
+    {
+        "id": "1-ITT",
+        "max": 0.4,
+        "min": -0.4,
+        "per": 123456,
+        "type": "transverse rotation",
+        "sample": 600
+    },
+    {
+        "id": "2-ITT",
+        "max": 0.4,
+        "min": -0.4,
+        "per": 1234567,
+        "type": "transverse rotation",
+        "sample": 600
+    },
+    {
+        "id": "3-ITT",
+        "max": 0.2,
+        "min": -0.3,
+        "per": 1234567,
+        "type": "transverse rotation",
+        "sample": 600
+    },
+    {
+        "id": "4-ITT",
+        "max": 0.3,
+        "min": -0.2,
+        "per": 12345678,
+        "type": "transverse rotation",
+        "sample": 600
+    },
+    {
+        "id": "5-ITT",
+        "max": 0.1,
+        "min": -0.1,
+        "per": 123450,
+        "type": "transverse rotation",
+        "sample": 600
+    },
+    {
+        "id": "6-ITT",
+        "max": 0.1,
+        "min": -0.1,
+        "per": 12345,
+        "type": "transverse rotation",
+        "sample": 600
+    },
+    {
+        "id": "7-ITT",
+        "max": 0.4,
+        "min": -0.1,
+        "per": 123423,
+        "type": "transverse rotation",
+        "sample": 600
+    },
+    {
+        "id": "8-ITT",
+        "max": 0.05,
+        "min": -0.02,
+        "per": 1234,
+        "type": "transverse rotation",
+        "sample": 600
+    },
+    {
+        "id": "1-Meteo",
+        "max": 90,
+        "min": 0,
+        "per": 1234,
+        "type": "wind speed",
+        "sample": 600
+    },
+    {
+        "id": "1-Meteo",
+        "max": 327,
+        "min": 0,
+        "per": 123456,
+        "type": "wind direction",
+        "sample": 600
+    },
+    {
+        "id": "1-Meteo",
+        "max": 50,
+        "min": -10,
+        "per": 1234567,
+        "type": "temperature",
+        "sample": 600
+    },
+    {
+        "id": "1-Meteo",
+        "max": 40,
+        "min": 0,
+        "per": 21600000,
+        "type": "rain",
+	"sample": 600
+    }
+]
